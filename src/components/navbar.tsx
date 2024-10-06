@@ -1,4 +1,4 @@
-'use client';
+// 'use client';
 import { NavLinks } from './nav-links';
 import { NavSearch } from './nav-search';
 
